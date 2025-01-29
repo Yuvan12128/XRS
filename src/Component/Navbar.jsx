@@ -14,13 +14,13 @@ const NavBar = () => {
                     <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
                         {/* Logo and Title */}
                         <div className="flex items-center space-x-2">
-                            <img
+                            {/* <img
                                 src={xrs} // Replace this with your logo URL
                                 alt="Logo"
                                 className="w-10 h-10 mr-1"
-                            />
+                            /> */}
                             <span className="text-4xl font-bold bg-gradient-to-r from-orange-400 via-yellow-600 to-yellow-500 bg-clip-text text-transparent">
-                                XRS
+                            xromeosanjeev
                             </span>
                         </div>
 
