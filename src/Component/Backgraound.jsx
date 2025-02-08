@@ -18,7 +18,7 @@ const Backgraound = () => {
           </button>
           </div>
           <p class="mb-5 text-base text-gray-500 sm:text-lg dark:text-gray-400">
-            Prof. Wedding Photographer You are beadutiful, and I'am here to capture it!
+            Proffosnal Wedding Photographer You are beadutiful, and I'am here to capture it!
           </p>
 
 
