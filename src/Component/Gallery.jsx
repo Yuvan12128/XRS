@@ -5,17 +5,10 @@ import p3 from './p3.jpeg'
 import p4 from './p4.jpeg'
 import p5 from './p5.jpeg'
 
-const Portfolio = () => {
+const Gallery = () => {
   return (
 <>
 <div className="container mx-auto bg-gray-200 p-10 rounded-lg">
-       <div className="container">
-       <h1 class="mt-4 mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-black text-center p-4">
-        
-        <span className='bg-gradient-to-r from-orange-400 via-yellow-600 to-yellow-500 p-1 rounded-lg'>Portfolio !</span>
-        </h1>
-       </div>
-
 <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
     <div class="grid gap-4">
         <div>
@@ -69,4 +62,4 @@ const Portfolio = () => {
 )
 }
 
-export default Portfolio
+export default Gallery
