@@ -29,7 +29,7 @@ const Backgraound = () => {
                 <i class="fa-brands fa-whatsapp h-auto max-w-full rounded-lg text-5xl"></i>
               </div>
               <div className='hover:text-yellow-400'>
-                <i class="fa-brands fa-instagram h-auto max-w-full rounded-lg text-5xl"></i>
+              <a href="https://www.instagram.com/xrs_capture_photography__/"><i class="fa-brands fa-instagram h-auto max-w-full rounded-lg text-5xl"></i></a>
               </div>
               <div className='hover:text-yellow-400'>
                 <i class="fa-brands fa-facebook h-auto max-w-full rounded-lg text-5xl"></i>
